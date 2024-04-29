@@ -2,4 +2,4 @@
 
 * Loki 
 * Splendont
-* Dr Octopus
+* Capitan America
