@@ -2,3 +2,4 @@
 
 * Loki 
 * Splendont
+* Dr Octopus
